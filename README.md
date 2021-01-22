@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical)
+![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true)
 
 
 <!--
