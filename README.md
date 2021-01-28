@@ -1,7 +1,6 @@
 ### Hi there 👋 I'm Suri!
 
 ![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Seyiul&theme=radical&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
