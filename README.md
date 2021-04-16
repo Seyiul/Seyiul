@@ -2,7 +2,7 @@
   
 ### Hi there 👋 I'm Suri!
 
-![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true)
+![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true&bg_color=white&text_color=black)
 </div>
 
 <!--
