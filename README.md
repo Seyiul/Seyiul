@@ -1,7 +1,7 @@
 <div align="center"> 
 
   ## Hi there 👋 I'm Suri!💖
-  
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713)
 ### 💪Skills
   #### Platforms & Language
   <div>
@@ -26,11 +26,9 @@
   <br>
   <br>
 
-  <div>
   
 ![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true&bg_color=white&text_color=black)
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713)
-  </div>
+
 </div>
 <!--
 **Seyiul/Seyiul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
