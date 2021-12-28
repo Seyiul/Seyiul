@@ -1,9 +1,7 @@
 <div align="center"> 
   
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBBD2,50:FFE8BB,100:FFC6BB&text=Lee%20Seul%20Yi&height=200&fontColor=FFFFFF)
-  ## Hi there 👋 I'm Suri!💖
-  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713)
-  
+<!--   ## Hi there 👋 I'm Suri!💖 --> 
 ### 💪Skills
   #### Platforms & Language
   <div>
@@ -32,6 +30,7 @@
 ![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true&bg_color=white&text_color=black)
 <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713) -->
 
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713)
 </div>
 <!--
 **Seyiul/Seyiul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
