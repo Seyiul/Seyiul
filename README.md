@@ -1,7 +1,15 @@
+  <div align="center"> 
+
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBBD2,50:FFE8BB,100:FFC6BB&text=Lee%20Seul%20Yi&height=200&fontColor=FFFFFF)
+ 
+  </div>
+  
+  I'm a junior developer who wants to be a **web full stack developer** 🖥️💖
+  
+  The main language is **JavaScript** with a variety of Library and collaboration experiences💪
+  
 <div align="center"> 
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:FFBBD2,50:FFE8BB,100:FFC6BB&text=Lee%20Seul%20Yi&height=200&fontColor=FFFFFF)
-<!--   ## Hi there 👋 I'm Suri!💖 --> 
 ### 💪Skills
   #### Platforms & Language
   <div>
