@@ -35,7 +35,7 @@
   
   I'm a junior developer who wants to be a **web full stack developer** 🖥️💖
 
-  My main language is **JavaScript** with a variety of Library and collaboration experiences💪
+  My main language is **JavaScript** with a variety of Libraries and collaboration experiences💪
   
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iseuli713@gmail.com)](mailto:iseuli713@gmail.com)
 
