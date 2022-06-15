@@ -42,7 +42,7 @@
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iseuli713@gmail.com)](mailto:iseuli713@gmail.com)
 
   
-<!-- ![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true&bg_color=white&text_color=black) -->
+![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=radical&count_private=true&bg_color=white&text_color=black)
 
   <!-- [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713) -->
 
