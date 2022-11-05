@@ -38,7 +38,7 @@
   <br>
   <br>
   
-  I'm a junior developer who wants to be a **web full stack developer** 🖥️💖
+  Desiring **web full stack developer** 🖥️💖
 
   Using **JavaScript** with a variety of Libraries and collaboration experiences💪
   
