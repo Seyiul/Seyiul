@@ -47,16 +47,15 @@
   </div>
   
   
-  <br>
-  <br>
-  <br>
-  
-  Desiring **web full stack developer** 🖥️💖
+  #### 📬Contact
 
-  Using **JavaScript** with a variety of Libraries and collaboration experiences💪
-  
+  <div style="display:flex; flex-direction:row;">
+
+  [![Gmail Badge](https://img.shields.io/badge/tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://whynotworking.tistory.com/)](https://whynotworking.tistory.com/)
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iseuli713@gmail.com)](mailto:iseuli713@gmail.com)
-
+    
+  </div>
+<br>
   
 ![Seyiul's github stats](https://github-readme-stats.vercel.app/api?username=Seyiul&show_icons=true&theme=tokyonight&count_private=true&bg_color=white&text_color=black)
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=iseuli713)](https://solved.ac/iseuli713)
