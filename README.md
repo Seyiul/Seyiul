@@ -1,6 +1,6 @@
   <div align="center"> 
 
-  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:55efc4,50:00cec9,100:10ac84&text=Lee%20Seul%20Yi&height=200&fontColor=FFFFFF)
+  ![header](https://capsule-render.vercel.app/api?type=waving&color=0:55efc4,50:00cec9,100:10ac84&text=SeulYi&height=200&fontColor=FFFFFF)
  
   </div>
     
@@ -9,12 +9,13 @@
 ### 💪 Skills
 
 #### 🧩 Core
-- ERP Development (NetSuite)
-- Business Process Automation
-- Financial Data Handling (GL, Transaction Flow)
-- System Integration (API / Interface)
+<p>ERP Development (NetSuite)</p>
+<p>Business Process Automation</p>
+<p>Financial Data Handling (GL, Transaction Flow) </p>
+<p>System Integration (API / Interface) </p>
 
 ---
+
 
 #### 💻 Backend & Scripting
 <div>
@@ -23,15 +24,12 @@
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 </div>
 
----
-
 #### 🌐 Frontend
 <div>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/>
   <img src="https://img.shields.io/badge/Vue-4FC08D?style=flat-square&logo=Vue.js&logoColor=white"/>
 </div>
 
----
 
 #### 🗄 Database & Data Layer
 <div>
@@ -42,7 +40,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
 </div>
 
----
 
 #### 🛠 Tools
 <div>
