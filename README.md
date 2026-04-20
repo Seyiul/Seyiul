@@ -4,7 +4,7 @@
  
   </div>
     
-<h2 align="center">💼 ERP + Automation Specialist</h2>
+<h2 align="center">💼 ERP Developer | Automation & Integration</h2>
 
 <p align="center">
 🚀 Customizing NetSuite ERP to streamline business processes<br/>
